@@ -254,7 +254,7 @@
           'off':
             cmd: '!ZP0'
 
-  response_eol: "\r"
+  response_eol: "\0"
   response_separator: "#"
 
   responses:
